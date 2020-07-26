@@ -1,1 +1,0 @@
-# 1hr-discord-bot
