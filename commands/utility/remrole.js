@@ -21,8 +21,8 @@ module.exports.run = async (client, message, args) => {
 }
 
 module.exports.help = {
-  name: "addrole",
-  aliases: ["addroles"],
+  name: "remrole",
+  aliases: ["remroles"],
   description: "Add a role to a user",
   usage: "<user> <role>",
   category: "Utility"
